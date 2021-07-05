@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+        background-color: aquamarine;
+}
+#p1{
+    font-size: 20px;
+    color:blueviolet;
+    font-family: cursive;
+    font-style: normal;
+    font-weight: 100;
+}
